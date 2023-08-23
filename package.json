@@ -105,7 +105,7 @@
     "p-retry": "4.6.2",
     "pagination.djs": "^4.0.10",
     "parse-duration": "1.0.2",
-    "read-pkg": "7.1.0",
+    "read-pkg": "8.1.0",
     "reflect-metadata": "^0.1.13",
     "spotify-uri": "^3.0.2",
     "spotify-web-api-node": "^5.0.2",
